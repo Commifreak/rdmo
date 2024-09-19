@@ -571,7 +571,7 @@ msgid ""
 "finalize the signup process. Please contact us if you do not receive it "
 "within a few minutes."
 msgstr ""
-"Wir haben Ihnen eine E-Mail zur Bestätigung geschickt. Folgen sie dem Link "
+"Wir haben Ihnen eine E-Mail zur Bestätigung geschickt. Folgen Sie dem Link "
 "in der E-Mail um die Registrierung abzuschließen. Bitte kontaktieren Sie "
 "uns, falls Sie die E-Mail nicht in den nächsten Minuten erhalten sollten."
 
